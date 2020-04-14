@@ -1,0 +1,8 @@
+{
+    "name": "webhook-channel-poster",
+    "version": "0.0.1",
+    "author": "Junior <fallen@discorddungeons.me>",
+    "dependencies": {
+        "discord.js": "12.1.1"
+    }
+}
