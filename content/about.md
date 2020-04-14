@@ -1,0 +1,2 @@
+Hello :blush: my name is Angel My main goal is to do what I enjoy whilst meeting new people to join in on the fun!
+I will try my best to provide content outside my university work and would love to get to know you :heart:
