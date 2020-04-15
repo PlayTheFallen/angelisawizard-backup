@@ -34,7 +34,6 @@ async function getFile(filePath) {
 
 const run = async () => {
   for (let index = 0; index < config.files.length; index++) {
-    // eslint-disable-next-line
     const [content, info] = await getFile(config.files[index]);
 
     let payload;
