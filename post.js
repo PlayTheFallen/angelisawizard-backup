@@ -22,7 +22,7 @@ const sendPayload = async (payload) => webhook.send(mergeDefault(config.defaultP
 /**
  *
  * @param {string} filePath
- * @returns {[Buffer, path.ParsedPath]}
+ * @returns {Promise<[Buffer, path.ParsedPath]>}
  */
 async function getFile(filePath) {
   filePath = path.resolve(filePath);
